@@ -34,4 +34,4 @@ A Java-based AWS project that allows users to upload, download, list, and delete
 ## How to Run
 ```bash
 mvn clean compile
-mvn exec:java -Dexec.mainClass=com.sanjay.Main
+mvn exec:java -Dexec.mainClass=com.shilki.Main
